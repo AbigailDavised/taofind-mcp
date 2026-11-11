@@ -1,0 +1,17 @@
+{
+  "name": "taofind-mcp",
+  "version": "1.0.0",
+  "description": "Clean 1688/Taobao/Weidian links, compute LxWxH/5000 haul weights & compare 18 agent FX fees.",
+  "homepage": "https://taofind.com",
+  "mcpName": "com.taofind/mcp",
+  "type": "module",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "1688",
+    "taobao",
+    "logistics",
+    "cross-border"
+  ]
+}

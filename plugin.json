@@ -1,0 +1,22 @@
+{
+  "name": "taofind",
+  "version": "1.0.0",
+  "description": "Clean 1688/Taobao/Weidian links, compute LxWxH/5000 haul weights & compare 18 agent FX fees.",
+  "homepage": "https://taofind.com",
+  "repository": "https://github.com/AbigailDavised/taofind-mcp",
+  "license": "MIT",
+  "author": {
+    "name": "Abigail Davised",
+    "email": "admin@taofind.com",
+    "url": "https://taofind.com"
+  },
+  "keywords": [
+    "1688-sourcing",
+    "taobao-converter",
+    "weidian-links",
+    "volumetric-shipping",
+    "shopping-agents",
+    "asian-size-converter",
+    "mcp"
+  ]
+}

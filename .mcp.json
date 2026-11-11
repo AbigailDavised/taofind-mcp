@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "taofind": {
+      "type": "http",
+      "url": "https://taofind.com/api/mcp"
+    }
+  }
+}

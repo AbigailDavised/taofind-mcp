@@ -1,0 +1,27 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.taofind/mcp",
+  "title": "TaoFind — 1688 Link Cleaner, Volumetric Shipping & Agent Cost Matrix",
+  "description": "Clean 1688/Taobao/Weidian links, compute LxWxH/5000 haul weights & compare 18 agent FX fees.",
+  "version": "1.0.0",
+  "websiteUrl": "https://taofind.com",
+  "repository": {
+    "url": "https://github.com/AbigailDavised/taofind-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://taofind.com/icon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": [
+        "any"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://taofind.com/api/mcp"
+    }
+  ]
+}

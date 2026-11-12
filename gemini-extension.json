@@ -1,0 +1,11 @@
+{
+  "name": "taofind",
+  "version": "1.0.0",
+  "description": "1688 link desensitizer, volumetric shipping calculator & proxy agent fee comparator.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "taofind": {
+      "httpUrl": "https://taofind.com/api/mcp"
+    }
+  }
+}

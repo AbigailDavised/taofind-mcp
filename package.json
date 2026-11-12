@@ -13,5 +13,8 @@
     "taobao",
     "logistics",
     "cross-border"
-  ]
+  ],
+  "bin": {
+    "taofind-cli": "./bin/cli.js"
+  }
 }

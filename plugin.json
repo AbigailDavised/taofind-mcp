@@ -1,4 +1,5 @@
 {
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "taofind",
   "version": "1.0.0",
   "description": "Clean 1688/Taobao/Weidian links, compute LxWxH/5000 haul weights & compare 18 agent FX fees.",
@@ -18,5 +19,14 @@
     "shopping-agents",
     "asian-size-converter",
     "mcp"
-  ]
+  ],
+  "extensions": {
+    "com.nousresearch.hermes": {
+      "servers": {
+        "taofind": {
+          "trust": "untrusted"
+        }
+      }
+    }
+  }
 }
